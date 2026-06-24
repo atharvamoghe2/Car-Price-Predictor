@@ -10,6 +10,7 @@ Steps:
 1: Data Cleaning (dropping missing values, removing commas, changing data type)
 
 2. Model:
+   
   a) Used sci kit learn for training and testing splits
 
   b) r2 score for determining model optimality
