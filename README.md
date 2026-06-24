@@ -7,6 +7,7 @@ https://github.com/rajtilakls2510/car_price_predictor/blob/master/quikr_car.csv
 Model Used: Linear Regression Model
 
 Steps:
+
 1: Data Cleaning (dropping missing values, removing commas, changing data type)
 
 2. Model:
